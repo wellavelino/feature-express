@@ -5,6 +5,7 @@ Feature-Express is simple way to expose your features in a beatifull html.
 
 ![CircleCI branch](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser/master.svg?style=for-the-badge)
 ![npm](https://img.shields.io/npm/v/npm.svg?style=for-the-badge)
+[![CircleCI](https://circleci.com/gh/wellavelino/feature-express.svg?style=svg)](https://circleci.com/gh/wellavelino/feature-express)
 
 
 ## View Sample
